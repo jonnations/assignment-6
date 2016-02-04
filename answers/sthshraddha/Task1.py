@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 """
+Task1:
 Write your own program that demonstrates the use of chained conditionals within
 a function to accomplish a (relatively simple) task. You choose what the task
 is. Write the program to include a main() function and the ifmain statement.

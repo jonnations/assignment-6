@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 """
+Task2:
 Getting the sum of integers from 0 to 1000 (inclusive).
 Credit url:
 http://stackoverflow.com/questions/19966290/recursive-function-to-calculate
